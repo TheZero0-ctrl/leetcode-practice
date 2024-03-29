@@ -13,6 +13,7 @@
 - [binary-search-tree](https://github.com/TheZero0-ctrl/leetcode-practice/tree/main/bst)
 - [halloween-haul](https://github.com/TheZero0-ctrl/leetcode-practice/tree/main/halloween-haul)
 
-
+## Tree
+- [descendant-distance](https://github.com/TheZero0-ctrl/leetcode-practice/tree/main/descendant-distance)
 
 

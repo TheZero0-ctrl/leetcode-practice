@@ -65,4 +65,5 @@ These four steps offer a general plan for tackling many other optimization probl
   - "Top-down" involves recursion from large subproblems to small ones, while "bottom-up" starts with the smallest subproblems and progresses upward.
 - [burger-fervor](https://github.com/TheZero0-ctrl/leetcode-practice/tree/main/burger-fervor)
 - [hockey-rivalry](https://github.com/TheZero0-ctrl/leetcode-practice/tree/main/hockey-rivalry)
+- [moneygrubbers](https://github.com/TheZero0-ctrl/leetcode-practice/tree/main/moneygrubbers)
 
